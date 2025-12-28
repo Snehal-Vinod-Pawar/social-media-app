@@ -66,3 +66,4 @@ HOME PAGE
 CREATE POST
 <img width="1879" height="907" alt="image" src="https://github.com/user-attachments/assets/a3ca7d37-cd9e-45bb-87f6-236645ee2131" />
 
+# sociopedia
